@@ -47,7 +47,7 @@
 
 @implementation XMGInfiniteScrollView
 
-static NSInteger XMGItemCount = 20;
+static NSInteger XMGItemCount = 120;
 static NSString * const XMGImageCellId = @"XMGImageCell";
 
 - (instancetype)initWithFrame:(CGRect)frame
